@@ -1,0 +1,3527 @@
+seagal 3.4594 0
+jackie brown 3.1405 1
+pulp fiction 3.1339 1
+mulan 3.1043 1
+truman 3.0961 1
+pulp 2.6746 1
+wasted 2.6644 0
+wonderfully 2.5456 1
+spice 2.4923 0
+will hunting 2.4923 1
+godzilla 2.4840 0
+damon 2.4448 1
+chicken 2.3390 1
+anna 2.3043 1
+lame 2.2923 0
+snake 2.2768 0
+laughable 2.2528 0
+spielberg 2.2422 1
+waste of 2.2278 0
+mess 2.2149 0
+shakespeare 2.0903 1
+scream 2 2.0730 1
+awful 2.0582 0
+a fine 2.0084 1
+only thing 2.0084 0
+toy 1.9786 1
+marty 1.9440 1
+meeting 1.8981 1
+unfunny 1.8981 0
+intense 1.8691 1
+jackie 1.8463 1
+painfully 1.8345 0
+waste 1.8285 0
+political 1.8074 1
+matrix 1.8074 1
+poorly 1.8074 0
+vampire 1.8074 1
+superb 1.7677 1
+niro 1.7574 1
+de niro 1.7574 1
+van damme 1.7312 0
+stupid 1.7183 0
+epic 1.7162 1
+hunting 1.7040 1
+drunken 1.6881 1
+worst 1.6740 0
+pointless 1.6585 0
+bland 1.6467 0
+star wars 1.6467 1
+brooks 1.6467 1
+subtle 1.6382 1
+wars 1.6235 1
+dull 1.6185 0
+damme 1.6130 0
+fiction 1.6061 1
+too bad 1.5850 0
+allows 1.5850 1
+excellent 1.5720 1
+julie 1.5560 0
+gives a 1.5370 1
+horse 1.5320 1
+titanic 1.5281 1
+tarantino 1.5236 1
+honest 1.5182 1
+blame 1.5182 0
+memorable 1.5021 1
+not_but not_it 1.5021 1
+mars 1.4998 0
+kim 1.4948 0
+a bunch 1.4891 0
+is very 1.4871 1
+boring 1.4828 0
+chow 1.4828 1
+jolie 1.4828 0
+cars 1.4624 0
+flaws 1.4558 1
+ridiculous 1.4458 0
+is his 1.4458 1
+mature 1.4458 1
+? i 1.4320 0
+as she 1.4288 1
+brown 1.4002 1
+solid 1.3939 1
+stuart 1.3939 1
+fantastic 1.3939 1
+thankfully 1.3939 1
+henstridge 1.3939 0
+sweet 1.3883 1
+fails to 1.3832 0
+leader 1.3785 1
+washington 1.3668 1
+bunch of 1.3628 0
+jungle 1.3576 0
+disney 1.3549 1
+very good 1.3459 1
+to live 1.3440 1
+rising 1.3388 0
+a strong 1.3388 1
+taylor 1.3344 0
+not_life 1.3344 1
+grows 1.3197 1
+heaven 1.3197 1
+animation 1.3176 1
+failure 1.3158 0
+7 1.3158 1
+hanks 1.3126 1
+realistic 1.3057 1
+got a 1.2801 0
+passion 1.2801 1
+is what 1.2801 1
+generic 1.2801 0
+contrast 1.2801 1
+faith 1.2801 1
+bad 1.2667 0
+terrible 1.2585 0
+not_quite 1.2585 1
+emotions 1.2538 1
+mel 1.2517 1
+cameron 1.2493 1
+not not_one 1.2464 0
+history 1.2454 1
+off to 1.2430 1
+parker 1.2430 1
+law 1.2291 1
+west 1.2291 0
+and most 1.2174 1
+crap 1.2174 0
+details 1.2174 1
+fate 1.2115 1
+chief 1.2115 0
+fails 1.2115 0
+winning 1.2115 1
+performance as 1.2093 1
+some reason 1.2044 0
+are just 1.2044 0
+tragedy 1.2044 1
+mitchell 1.2044 1
+driver 1.1987 1
+reality 1.1975 1
+chemistry 1.1935 1
+touching 1.1921 1
+is quite 1.1921 1
+powerful 1.1884 1
+amazing 1.1884 1
+lynch 1.1844 0
+delivers 1.1844 1
+complex 1.1844 1
+beauty 1.1777 1
+rob 1.1777 1
+vincent 1.1752 1
+unique 1.1699 1
+a comedy 1.1699 0
+master 1.1699 1
+with no 1.1665 0
+matt 1.1641 1
+can only 1.1641 0
+unbelievable 1.1641 0
+though it 1.1641 1
+fake 1.1609 0
+catherine 1.1609 0
+bunch 1.1598 0
+rare 1.1589 1
+begins to 1.1565 1
+even worse 1.1502 0
+little to 1.1375 0
+strength 1.1375 1
+arnold 1.1375 0
+portrayal 1.1375 1
+perfectly 1.1327 1
+dinner 1.1220 1
+not_rather 1.1220 1
+engaging 1.1220 1
+not_funny 1.1181 0
+detail 1.1169 1
+episode 1.1148 1
+cheesy 1.1148 0
+trust 1.1148 0
+moments of 1.1096 1
+lord 1.1057 1
+cheap 1.1027 0
+deal with 1.0982 1
+lonely 1.0982 1
+seconds 1.0982 0
+kiss 1.0982 0
+brilliant 1.0982 1
+desperately 1.0982 0
+not_interesting 1.0982 0
+cares 1.0982 0
+effective 1.0966 1
+seen in 1.0929 1
+army 1.0898 1
+due to 1.0780 1
+hoping 1.0780 0
+here's 1.0780 0
+ten 1.0780 0
+ability to 1.0780 1
+horrible 1.0780 0
+redman 1.0780 0
+you'd 1.0780 0
+terrific 1.0629 1
+appreciate 1.0605 1
+doors 1.0605 1
+- a 1.0573 1
+below 1.0573 0
+phil 1.0573 0
+or something 1.0573 0
+every scene 1.0573 1
+badly 1.0573 0
+war 1.0506 1
+animated 1.0482 1
+bed 1.0453 0
+share 1.0418 1
+park 1.0410 1
+compelling 1.0398 1
+not_enough not_to 1.0398 0
+connection 1.0398 1
+oliver 1.0375 1
+process 1.0375 1
+visually 1.0319 1
+lacks 1.0319 0
+worse 1.0319 0
+urban 1.0319 0
+fascinating 1.0319 1
+buddy 1.0319 1
+ford 1.0319 1
+think that 1.0267 0
+natural 1.0201 1
+attempt 1.0201 0
+images 1.0169 1
+strong 1.0146 1
+it on 1.0146 0
+wonderful 1.0146 1
+be seen 1.0146 1
+october 1.0146 1
+scream 1.0122 1
+criminal 1.0115 1
+none of 1.0115 0
+explain 1.0115 0
+gold 1.0115 0
+a great 1.0099 1
+is now 1.0095 1
+wilson 1.0081 0
+perfect 1.0000 1
+voice 1.0000 1
+are also 1.0000 1
+suppose 1.0000 0
+sees 1.0000 1
+great deal 1.0000 1
+life is 1.0000 1
+nicely 1.0000 1
+pace 0.9914 1
+sarah 0.9898 0
+aspects 0.9874 1
+masterpiece 0.9874 1
+also a 0.9858 1
+song 0.9836 1
+supposed to 0.9826 0
+issues 0.9765 1
+relationship 0.9765 1
+technology 0.9765 1
+quite 0.9757 1
+true 0.9734 1
+realizes 0.9700 1
+cartoon 0.9700 0
+must have 0.9700 0
+troopers 0.9700 1
+increasingly 0.9700 1
+a very 0.9676 1
+conflict 0.9670 1
+from her 0.9670 1
+i suppose 0.9670 0
+grand 0.9670 1
+ride 0.9652 1
+holds 0.9652 1
+is still 0.9641 1
+dark 0.9636 1
+light 0.9586 1
+i've seen 0.9586 1
+scientist 0.9586 0
+steals 0.9586 1
+michael redman 0.9586 0
+a bad 0.9586 0
+hilarious 0.9547 1
+supposed 0.9535 0
+remains 0.9511 1
+may not 0.9511 1
+story is 0.9501 1
+treat 0.9488 1
+loved 0.9488 1
+mood 0.9488 1
+sean 0.9488 1
+enjoyed 0.9444 1
+lies 0.9444 1
+field 0.9444 1
+harris 0.9403 1
+ok 0.9403 0
+surprising 0.9403 1
+very well 0.9383 1
+dennis 0.9383 0
+especially 0.9342 1
+slowly 0.9329 1
+bloomington 0.9329 0
+carpenter 0.9329 0
+towards 0.9289 1
+minutes of 0.9279 0
+sadly 0.9279 0
+is something 0.9264 1
+involves 0.9264 0
+jokes 0.9222 0
+faces 0.9206 1
+it also 0.9206 1
+even if 0.9206 1
+normal 0.9206 1
+overall 0.9184 1
+a giant 0.9154 0
+lets 0.9154 1
+flying 0.9154 0
+to some 0.9154 1
+famous 0.9154 1
+his friends 0.9154 1
+frightening 0.9154 1
+family 0.9107 1
+creates 0.9107 1
+america 0.9099 1
+disappointment 0.9086 0
+difference 0.9086 1
+journey 0.9086 1
+warren 0.9086 0
+he's not 0.9086 1
+little too 0.9086 1
+ethan 0.9086 1
+ben affleck 0.9086 1
+moral 0.9027 1
+catch 0.9027 0
+as one 0.9027 1
+halloween 0.9027 1
+believes 0.9027 1
+american 0.8987 1
+is also 0.8981 1
+life of 0.8976 1
+not_movies 0.8976 1
+color 0.8976 1
+needs to 0.8976 0
+feelings 0.8976 1
+to work 0.8960 0
+drive 0.8931 0
+dreams 0.8931 1
+beautiful 0.8899 1
+at times 0.8891 1
+personal 0.8891 1
+monster 0.8891 0
+stories 0.8879 1
+deserves 0.8855 1
+those who 0.8834 1
+dvd 0.8823 1
+virus 0.8795 0
+impressive 0.8795 1
+and other 0.8795 0
+a more 0.8769 1
+viewer 0.8760 1
+view 0.8745 1
+adam 0.8745 0
+none 0.8745 0
+science fiction 0.8745 1
+private 0.8716 1
+sorry 0.8703 0
+1995 0.8703 0
+extreme 0.8703 1
+claims 0.8703 1
+southern 0.8703 1
+there were 0.8703 0
+at first 0.8684 1
+helps 0.8667 1
+grow 0.8667 1
+direction is 0.8667 1
+slapstick 0.8667 1
+neve 0.8667 1
+not_to not_see 0.8637 1
+streets 0.8637 1
+excuse 0.8637 0
+not_for not_a 0.8637 0
+emotional 0.8619 1
+action scenes 0.8610 0
+filmmaker 0.8610 1
+wide 0.8610 0
+adaptation 0.8610 1
+great 0.8601 1
+smile 0.8587 1
+of film 0.8587 1
+current 0.8587 1
+pathetic 0.8587 0
+not not_just 0.8566 1
+hair 0.8566 0
+twice 0.8566 0
+system 0.8548 1
+became 0.8548 1
+tough 0.8532 1
+approach 0.8517 1
+provides 0.8503 1
+this year 0.8503 1
+zero 0.8503 1
+gary 0.8491 0
+store 0.8491 1
+and she 0.8470 1
+sometimes 0.8456 1
+flat 0.8452 0
+due 0.8429 1
+attempt to 0.8429 0
+frank 0.8411 1
+king 0.8368 1
+extremely 0.8365 1
+at his 0.8231 1
+let's 0.8231 0
+blood 0.8231 1
+determined 0.8231 1
+water 0.8231 0
+today 0.8231 1
+performance 0.8231 1
+damn 0.8231 1
+his father 0.8231 1
+use of 0.8231 1
+change 0.8231 1
+witty 0.8231 1
+range 0.8231 1
+come out 0.8231 1
+theatre 0.8231 0
+like that 0.8231 0
+believable 0.8231 1
+a way 0.8231 1
+throughout 0.8231 1
+radio 0.8231 1
+of life 0.8231 1
+bizarre 0.8231 1
+so they 0.8231 0
+and at 0.8231 1
+intelligent 0.8231 1
+looked 0.8231 0
+agrees 0.8231 1
+a simple 0.8231 1
+who can 0.8231 1
+many of 0.8231 1
+enjoyable 0.8231 1
+cinema 0.8231 1
+not_still 0.8231 1
+most part 0.8231 1
+long time 0.8231 1
+loses 0.8231 1
+children's 0.8231 1
+into his 0.8231 1
+haunting 0.8231 0
+to think 0.8231 0
+his mother 0.8231 1
+sidney 0.8231 1
+neve campbell 0.8231 1
+both 0.8130 1
+deal 0.8112 1
+should have 0.8074 0
+clever 0.8054 1
+works 0.8046 1
+nick 0.8036 0
+producers 0.8030 0
+felt 0.8030 1
+affair 0.8022 1
+writers 0.7997 0
+is probably 0.7952 1
+grace 0.7952 1
+g 0.7952 0
+musical 0.7938 1
+quiet 0.7938 1
+inspired 0.7938 1
+nothing more 0.7938 0
+thanks to 0.7922 1
+captain 0.7904 1
+chinese 0.7904 1
+buy 0.7904 1
+one that 0.7885 1
+not_best 0.7885 1
+dude 0.7863 1
+considered 0.7838 1
+throw 0.7838 0
+not_over 0.7838 1
+what we 0.7809 1
+something of 0.7809 1
+by david 0.7809 0
+back and 0.7809 1
+supposedly 0.7809 0
+promise 0.7809 0
+violent 0.7793 1
+rain 0.7776 0
+movies like 0.7776 0
+dumb 0.7776 0
+realized 0.7776 0
+willing 0.7776 1
+there's nothing 0.7776 0
+a car 0.7776 0
+cast is 0.7776 1
+things that 0.7776 0
+jake 0.7776 1
+devito 0.7776 0
+country 0.7764 1
+not_say 0.7757 1
+to keep 0.7751 1
+joke 0.7737 0
+somewhere 0.7737 0
+that will 0.7715 1
+for his 0.7711 1
+friends 0.7698 1
+job 0.7636 1
+visuals 0.7636 1
+supporting cast 0.7636 1
+songs 0.7603 1
+and one 0.7567 1
+his wife 0.7535 1
+eventually 0.7527 1
+in every 0.7527 1
+not not_even 0.7527 0
+battle 0.7518 1
+not_great 0.7512 1
+deliver 0.7481 1
+simple 0.7481 1
+entertaining 0.7481 1
+amount of 0.7447 1
+chan 0.7447 1
+heads 0.7429 1
+bringing 0.7429 1
+unexpected 0.7429 1
+but she 0.7429 1
+graphic 0.7429 1
+care about 0.7429 0
+basically 0.7418 0
+moving 0.7401 1
+story of 0.7395 1
+dramatic 0.7370 1
+to become 0.7370 1
+brings 0.7370 1
+continue 0.7370 1
+match 0.7370 1
+look like 0.7370 0
+baker 0.7370 1
+michael%20redman 0.7370 0
+cover 0.7370 1
+all this 0.7370 0
+not_a not_good 0.7370 0
+character of 0.7370 1
+artist 0.7370 1
+what he 0.7336 1
+land 0.7325 1
+future 0.7315 1
+real life 0.7300 1
+broken 0.7300 0
+reason 0.7300 0
+it wasn't 0.7300 0
+loves 0.7300 1
+not_but not_also 0.7300 1
+naked 0.7300 0
+plain 0.7300 0
+not_thing 0.7300 0
+villains 0.7300 0
+inevitable 0.7300 1
+japanese 0.7300 1
+banderas 0.7300 0
+how much 0.7300 1
+produced 0.7290 1
+contact 0.7275 1
+different 0.7244 1
+looks like 0.7219 0
+sets 0.7219 1
+it's just 0.7219 0
+superior 0.7219 0
+apes 0.7219 0
+sandler 0.7219 0
+not_other 0.7182 1
+background 0.7173 1
+predictable 0.7166 0
+middle of 0.7156 0
+it's all 0.7156 0
+developed 0.7156 1
+al 0.7156 1
+dustin 0.7156 0
+sight 0.7143 1
+except 0.7137 0
+begins 0.7122 1
+add 0.7122 0
+definitely 0.7122 1
+truth 0.7122 1
+set in 0.7100 1
+in many 0.7085 1
+limited 0.7085 1
+bond 0.7085 1
+expectations 0.7085 1
+same time 0.7066 1
+changes 0.7066 1
+yet 0.7063 1
+talent 0.7054 0
+sequel 0.7040 0
+martin 0.7033 1
+queen 0.7004 1
+italian 0.7004 1
+concerned 0.7004 1
+virtually 0.7004 0
+professional 0.7004 1
+mother 0.6954 1
+thus 0.6950 1
+atmosphere 0.6950 1
+supporting 0.6936 1
+is supposed 0.6936 0
+why 0.6931 0
+bill 0.6921 1
+knows 0.6921 1
+gotten 0.6911 1
+crazy 0.6911 0
+but as 0.6911 1
+but even 0.6911 0
+not_her 0.6911 1
+putting 0.6911 1
+contemporary 0.6911 1
+fans of 0.6911 1
+fly 0.6911 1
+flashbacks 0.6911 0
+performances 0.6905 1
+follows 0.6898 1
+is never 0.6891 1
+one day 0.6891 1
+a young 0.6877 1
+sense of 0.6874 1
+reviewed by 0.6859 1
+gives 0.6859 1
+rich 0.6859 1
+product 0.6859 0
+period 0.6859 1
+for some 0.6859 0
+too long 0.6859 1
+humanity 0.6859 1
+creature 0.6859 0
+filmmaking 0.6859 1
+tommy 0.6826 0
+woods 0.6826 0
+several 0.6815 1
+very 0.6813 1
+spanish 0.6802 1
+graham 0.6802 1
+british 0.6802 1
+stolen 0.6802 1
+a decent 0.6802 0
+but for 0.6802 1
+not_has 0.6802 1
+animal 0.6802 1
+focus 0.6802 1
+luke 0.6802 0
+does a 0.6785 1
+edward 0.6785 1
+from his 0.6785 1
+who are 0.6772 0
+grant 0.6772 0
+has an 0.6772 1
+spirit 0.6772 1
+michelle 0.6772 1
+walking 0.6772 1
+to stop 0.6772 0
+comedies 0.6754 1
+/ 0.6754 0
+choice 0.6754 1
+ray 0.6754 1
+lawyer 0.6754 1
+nothing to 0.6754 0
+him to 0.6747 1
+finds 0.6745 1
+younger 0.6741 1
+very little 0.6741 0
+means 0.6725 1
+tale 0.6719 1
+world 0.6717 1
+well as 0.6711 1
+us to 0.6674 1
+a woman 0.6674 1
+seems that 0.6674 0
+a single 0.6674 0
+annie 0.6674 1
+a nice 0.6674 1
+1 0.6674 0
+and directed 0.6674 1
+satire 0.6674 1
+been a 0.6674 0
+allow 0.6674 1
+a different 0.6674 1
+her husband 0.6674 1
+pure 0.6674 1
+robert 0.6654 1
+guess 0.6635 0
+subplot 0.6601 0
+ian 0.6601 1
+hunt 0.6601 1
+gore 0.6601 1
+roger 0.6601 0
+not_through 0.6586 0
+not_had 0.6586 1
+step 0.6586 1
+not_original 0.6586 1
+to come 0.6575 1
+season 0.6562 1
+structure 0.6562 1
+themes 0.6562 1
+his own 0.6562 1
+1997 0.6562 1
+what makes 0.6562 1
+close to 0.6562 1
+not_help 0.6562 1
+life and 0.6562 1
+saved 0.6562 0
+thanks 0.6545 1
+takes a 0.6521 1
+forced to 0.6521 1
+we see 0.6505 1
+ryan 0.6486 1
+leave 0.6478 1
+easily 0.6478 1
+maybe 0.6471 0
+tarzan 0.6471 0
+others 0.6463 1
+life 0.6461 1
+as well 0.6444 1
+murphy 0.6432 0
+similar 0.6432 1
+animals 0.6432 0
+love story 0.6432 1
+disaster 0.6432 0
+chases 0.6432 0
+and over 0.6432 0
+viewers 0.6432 1
+crime 0.6432 1
+jennifer 0.6432 0
+spectacular 0.6432 1
+research 0.6432 1
+pull 0.6432 0
+that if 0.6432 0
+much like 0.6432 1
+profanity 0.6391 0
+general 0.6374 1
+carry 0.6374 1
+results 0.6374 1
+it may 0.6374 1
+he also 0.6374 1
+are more 0.6374 1
+looks 0.6370 0
+theme 0.6359 1
+above 0.6352 1
+not_it not_is 0.6334 1
+intended 0.6334 0
+of their 0.6323 1
+? 0.6315 0
+inside 0.6313 1
+larry 0.6304 1
+of her 0.6280 1
+science 0.6268 1
+rated pg-13 0.6247 1
+guy who 0.6247 0
+built 0.6247 1
+good as 0.6247 1
+meaning 0.6247 1
+individual 0.6247 1
+surprisingly 0.6224 1
+mix 0.6224 1
+may have 0.6224 0
+accident 0.6207 1
+he will 0.6207 1
+toward 0.6207 1
+filmmakers 0.6207 0
+member of 0.6207 1
+remake 0.6207 0
+and her 0.6200 1
+greatest 0.6194 1
+seemed 0.6170 1
+english 0.6170 1
+slightly 0.6170 1
+free 0.6164 1
+particularly 0.6101 1
+not_enough 0.6101 0
+speak 0.6101 0
+he does 0.6101 1
+not_as 0.6101 1
+brought 0.6101 1
+pick 0.6101 0
+and their 0.6101 1
+ted 0.6101 1
+humorous 0.6101 1
+a sense 0.6101 1
+having a 0.6101 1
+when we 0.6101 1
+a character 0.6101 1
+suspect 0.6101 0
+which has 0.6101 1
+magic 0.6101 0
+touch 0.6101 1
+not_of not_his 0.6101 1
+film of 0.6101 1
+if not 0.6101 1
+t 0.6101 0
+15 0.6101 1
+learns 0.6101 1
+seems like 0.6101 1
+sly 0.6101 0
+laura 0.6101 1
+cusack 0.6101 1
+moments 0.6076 1
+wouldn't 0.6038 0
+and it 0.6033 1
+decent 0.6019 0
+puts 0.6019 1
+jay 0.6019 0
+it does 0.6019 1
+more of 0.6010 1
+problem is 0.6010 0
+eye 0.5998 1
+who have 0.5998 1
+adults 0.5982 1
+disappointing 0.5982 0
+dollars 0.5982 1
+miss 0.5982 1
+impact 0.5982 1
+action sequences 0.5961 0
+he is 0.5961 1
+looking at 0.5961 0
+film about 0.5961 1
+; a 0.5931 1
+a high 0.5931 1
+not not_enough 0.5931 0
+any other 0.5931 1
+force 0.5931 1
+amount 0.5931 1
+not_away 0.5931 1
+pleasure 0.5931 1
+fail 0.5931 0
+in black 0.5931 1
+be one 0.5931 1
+no idea 0.5931 0
+risk 0.5931 1
+begin to 0.5931 1
+you could 0.5931 0
+every time 0.5931 0
+suicide 0.5931 0
+veteran 0.5931 1
+film does 0.5931 1
+unlike 0.5910 1
+i guess 0.5910 0
+middle 0.5902 0
+also 0.5896 1
+of us 0.5884 1
+singer 0.5884 1
+soldiers 0.5884 1
+as he 0.5872 1
+at least 0.5872 0
+not_most 0.5862 1
+with him 0.5862 1
+to kill 0.5862 0
+for me 0.5850 1
+and while 0.5850 1
+always 0.5824 1
+largely 0.5802 1
+weren't 0.5802 0
+lose 0.5802 1
+arts 0.5802 1
+minor 0.5802 1
+prison 0.5777 1
+wait 0.5771 0
+ii 0.5771 1
+script 0.5759 0
+common 0.5759 1
+have seen 0.5759 1
+often 0.5754 1
+five 0.5741 0
+feel 0.5738 1
+race 0.5732 1
+wasn't 0.5722 0
+clearly 0.5714 1
+ass 0.5701 0
+not_work 0.5701 1
+not_seen 0.5701 1
+two hours 0.5701 0
+obviously 0.5701 0
+impression 0.5701 0
+man's 0.5701 1
+between 0.5696 1
+despite 0.5695 1
+night 0.5687 1
+south 0.5683 1
+meet 0.5677 1
+against 0.5671 1
+setting 0.5671 1
+this one 0.5663 0
+a bit 0.5640 1
+if i 0.5619 0
+with her 0.5619 1
+viewing 0.5619 1
+cold 0.5619 1
+christopher 0.5619 0
+community 0.5619 0
+as his 0.5619 1
+important 0.5619 1
+which he 0.5619 1
+not_those 0.5619 1
+level of 0.5619 0
+you to 0.5619 0
+visual 0.5619 1
+email 0.5619 0
+not_; 0.5619 1
+lovely 0.5619 1
+weapon 0.5619 0
+then again 0.5619 1
+surprised 0.5619 1
+pretty much 0.5619 0
+asking 0.5619 1
+reel 0.5619 0
+not_action 0.5619 0
+substance 0.5619 0
+appealing 0.5619 1
+fans 0.5584 1
+not_like 0.5576 1
+hear 0.5573 1
+julia 0.5573 1
+care 0.5569 0
+scene where 0.5564 1
+chris 0.5564 1
+to play 0.5564 1
+cage 0.5564 0
+mpaa 0.5551 1
+cool 0.5551 0
+loud 0.5551 0
+rules 0.5551 0
+a half 0.5551 0
+love 0.5539 1
+neither 0.5532 0
+near 0.5532 1
+ultimate 0.5532 1
+fighting 0.5532 1
+movies that 0.5532 0
+constantly 0.5516 1
+expect 0.5510 1
+not_many 0.5495 1
+no one 0.5495 0
+in their 0.5484 1
+understand 0.5475 1
+a man 0.5475 1
+ending 0.5472 1
+have been 0.5467 0
+edge 0.5462 1
+-- and 0.5462 0
+open 0.5462 1
+not_made 0.5462 0
+possibly 0.5462 0
+martial arts 0.5462 1
+2001 0.5447 0
+that she 0.5447 1
+not_even 0.5433 0
+to happen 0.5406 0
+gone 0.5406 0
+christian 0.5406 1
+effectively 0.5406 1
+commentary 0.5406 1
+nature of 0.5406 1
+sister 0.5406 1
+rose 0.5406 1
+not_too 0.5406 1
+and for 0.5406 1
+essentially 0.5406 1
+; he 0.5406 1
+not_well 0.5406 1
+caught 0.5406 1
+not_nearly 0.5406 1
+joel 0.5406 0
+finds himself 0.5406 1
+not_should 0.5406 1
+charming 0.5406 1
+age 0.5381 1
+realize 0.5370 1
+eyes 0.5365 1
+leads 0.5359 1
+scale 0.5359 1
+adds 0.5359 1
+martial 0.5359 1
+books 0.5359 1
+she has 0.5350 1
+on to 0.5338 0
+joblo 0.5338 0
+reading 0.5338 0
+to it 0.5338 1
+it up 0.5338 0
+media 0.5338 1
+arquette 0.5338 1
+nobody 0.5338 0
+online 0.5338 1
+hotel 0.5338 1
+imdb 0.5319 0
+carter 0.5319 1
+live 0.5310 1
+attention 0.5285 1
+incredible 0.5285 1
+not_first 0.5285 1
+film with 0.5285 1
+here is 0.5285 1
+a little 0.5272 1
+not not_be 0.5256 1
+not_them 0.5251 0
+not_new 0.5243 1
+appeal 0.5243 1
+did not 0.5243 0
+is more 0.5243 1
+to know 0.5231 1
+material 0.5221 0
+of his 0.5216 1
+seen 0.5212 1
+not_but 0.5208 1
+generally 0.5208 1
+and how 0.5208 1
+of one 0.5208 1
+culture 0.5208 1
+still 0.5185 1
+ground 0.5179 0
+and he 0.5179 1
+to show 0.5179 0
+that of 0.5179 1
+fairly 0.5155 1
+sexual 0.5155 0
+girls 0.5155 0
+power 0.5155 1
+much more 0.5140 1
+not_plot 0.5133 0
+looking for 0.5133 1
+barely 0.5133 0
+year's 0.5133 0
+modern 0.5133 1
+travolta 0.5133 1
+oscar 0.5127 1
+what is 0.5127 1
+falls in 0.5115 0
+team 0.5115 0
+for more 0.5115 0
+movie and 0.5115 0
+constant 0.5115 1
+rival 0.5115 0
+in for 0.5115 1
+given a 0.5115 1
+hong kong 0.5115 1
+i do 0.5115 1
+give it 0.5115 0
+relationships 0.5115 1
+romantic comedy 0.5115 1
+fantasy 0.5115 1
+bored 0.5085 0
+susan 0.5085 0
+duvall 0.5085 1
+speed 0.5085 0
+than that 0.5085 1
+a guy 0.5085 0
+lost in 0.5085 0
+crash 0.5085 0
+dogs 0.5085 1
+half of 0.5085 0
+car 0.5078 0
+fair 0.5061 0
+contrived 0.5061 0
+device 0.5061 0
+sex 0.5061 0
+project 0.5061 0
+suspects 0.5061 1
+married 0.5050 1
+space 0.5047 0
+ed 0.5041 1
+attitude 0.5041 1
+but then 0.5041 1
+it has 0.5033 1
+children 0.5030 1
+whether 0.5025 1
+nowhere 0.5025 0
+is it 0.5025 0
+totally 0.5011 0
+mrs 0.5011 1
+and then 0.5007 0
+a number 0.5000 1
+thrown 0.5000 0
+not_does 0.5000 1
+as much 0.4990 1
+nearly 0.4990 1
+twist 0.4990 0
+seem 0.4985 1
+because it 0.4974 1
+smart 0.4961 1
+keeps 0.4961 1
+nature 0.4961 1
+com/ 0.4955 1
+pictures 0.4950 0
+planet 0.4929 0
+whom 0.4923 1
+jack 0.4913 1
+least 0.4884 0
+of good 0.4854 1
+what's 0.4854 0
+films of 0.4854 1
+lots 0.4854 0
+please 0.4854 0
+walk 0.4854 1
+studio 0.4854 0
+minute 0.4854 0
+with an 0.4854 1
+do not 0.4854 1
+appeared 0.4854 0
+which was 0.4854 1
+ability 0.4854 1
+terms 0.4854 1
+they get 0.4854 0
+directing 0.4854 1
+nasty 0.4854 1
+film reviews 0.4854 0
+but that 0.4854 0
+something that 0.4854 1
+as good 0.4854 1
+jackie chan 0.4854 1
+documentary 0.4854 1
+with one 0.4854 1
+more to 0.4854 1
+ever seen 0.4854 1
+reach 0.4854 1
+natasha 0.4854 0
+what they 0.4854 1
+does not 0.4854 1
+tim 0.4854 0
+not_love 0.4854 1
+isn't not_a 0.4854 0
+many 0.4839 1
+most 0.4815 1
+husband 0.4776 1
+using 0.4766 1
+man who 0.4766 1
+herself 0.4752 1
+thomas 0.4747 0
+date 0.4741 1
+okay 0.4741 0
+not_he 0.4741 1
+is so 0.4734 0
+lots of 0.4726 0
+we have 0.4726 0
+key 0.4726 1
+proves 0.4707 1
+not_films 0.4707 1
+they can 0.4695 0
+expected 0.4695 1
+may 0.4688 1
+heart 0.4688 1
+meets 0.4681 1
+games 0.4681 0
+able to 0.4681 1
+an interesting 0.4681 1
+paul 0.4681 0
+not_the not_movie 0.4681 0
+own 0.4671 1
+to his 0.4669 1
+role as 0.4664 1
+helen 0.4664 1
+was not 0.4664 1
+fine 0.4658 1
+it is 0.4658 1
+number of 0.4655 1
+well 0.4645 1
+giant 0.4644 0
+stuck 0.4644 0
+relief 0.4644 1
+hurt 0.4644 1
+thinking 0.4644 0
+a plot 0.4644 0
+pieces 0.4644 0
+i must 0.4644 1
+andy 0.4644 1
+lives 0.4638 1
+feeling 0.4632 1
+acts 0.4619 0
+price 0.4619 1
+not_also 0.4619 1
+but if 0.4619 0
+develop 0.4619 0
+tyler 0.4619 0
+000 0.4604 0
+news 0.4604 1
+sam 0.4599 0
+tells 0.4587 1
+placed 0.4587 1
+into an 0.4587 1
+years later 0.4587 1
+forgotten 0.4587 0
+shocking 0.4587 1
+it with 0.4587 1
+what happens 0.4587 0
+double 0.4587 0
+far more 0.4587 1
+quest 0.4587 0
+deals with 0.4587 1
+bride 0.4587 0
+it gets 0.4587 1
+! 0.4584 0
+you're 0.4580 0
+best 0.4577 1
+to him 0.4568 1
+that are 0.4561 0
+in his 0.4559 1
+provide 0.4546 1
+take a 0.4546 1
+not_anything 0.4546 0
+about this 0.4546 0
+story 0.4536 1
+innocent 0.4520 1
+able 0.4520 1
+you see 0.4520 1
+train 0.4520 1
+become 0.4516 1
+human 0.4515 1
+in which 0.4489 1
+confused 0.4489 0
+not_can 0.4489 0
+portrayed 0.4489 1
+may be 0.4489 1
+goes on 0.4489 0
+who plays 0.4489 0
+thing that 0.4489 0
+event 0.4489 1
+out that 0.4489 1
+it isn't 0.4489 0
+novel 0.4479 1
+fun 0.4471 1
+wedding 0.4471 1
+no matter 0.4465 1
+i didn't 0.4465 0
+alex 0.4451 1
+shannon 0.4451 0
+films like 0.4451 1
+remember 0.4451 1
+it's a 0.4444 1
+exciting 0.4437 1
+tone 0.4437 1
+teenage 0.4437 0
+john 0.4417 1
+however 0.4414 1
+mysterious 0.4406 1
+matters 0.4406 1
+led 0.4406 1
+hot 0.4406 0
+folks 0.4406 0
+at one 0.4406 0
+what you 0.4406 0
+a certain 0.4406 1
+there's no 0.4406 0
+wild 0.4406 0
+be in 0.4406 0
+me to 0.4406 0
+role in 0.4406 1
+vision 0.4406 1
+to leave 0.4406 1
+u 0.4384 0
+a real 0.4379 0
+thought 0.4373 0
+elements 0.4369 1
+search 0.4369 1
+genre 0.4357 1
+i think 0.4357 0
+us a 0.4348 0
+industry 0.4348 1
+release 0.4348 1
+full of 0.4348 0
+comic relief 0.4348 1
+magazine 0.4348 1
+anyone who 0.4348 0
+aspect of 0.4348 0
+image 0.4348 1
+of it 0.4339 0
+is an 0.4335 1
+i'd 0.4335 0
+whose 0.4333 1
+truly 0.4332 1
+father 0.4330 1
+win 0.4326 1
+his best 0.4326 1
+owner 0.4326 1
+ways 0.4326 1
+charles 0.4326 1
+for those 0.4326 1
+learn 0.4319 1
+convincing 0.4314 1
+chase 0.4274 0
+a group 0.4274 1
+close 0.4274 1
+i will 0.4274 0
+sign 0.4274 0
+movie's 0.4274 0
+romance 0.4274 1
+way of 0.4274 1
+total 0.4274 0
+guns 0.4274 0
+to bring 0.4274 1
+must be 0.4274 0
+but a 0.4274 1
+together 0.4264 1
+she is 0.4260 1
+experience 0.4249 1
+and as 0.4238 1
+tom 0.4228 1
+? well 0.4228 0
+not_and not_the 0.4228 1
+not_two 0.4228 1
+academy 0.4211 1
+serial 0.4211 0
+his family 0.4211 1
+is all 0.4211 0
+it's hard 0.4211 1
+if this 0.4211 0
+fox 0.4197 1
+boss 0.4197 1
+exception 0.4175 1
+words 0.4175 1
+difficult to 0.4175 0
+la 0.4175 1
+that you 0.4175 1
+one point 0.4175 0
+rarely 0.4175 1
+poor 0.4175 0
+put 0.4160 1
+cannot 0.4157 1
+com 0.4153 0
+merely 0.4150 0
+not_the not_film 0.4150 1
+spent 0.4150 0
+films are 0.4133 1
+it looks 0.4133 0
+certain 0.4133 1
+comes from 0.4133 1
+hong 0.4133 1
+as for 0.4133 0
+universal 0.4133 0
+lovers 0.4133 1
+and yet 0.4133 1
+her life 0.4133 1
+this isn't 0.4133 1
+strange 0.4121 1
+told 0.4121 1
+know what 0.4121 0
+www 0.4111 0
+times 0.4111 1
+one scene 0.4111 1
+think of 0.4111 0
+anyone 0.4111 0
+not_as not_the 0.4111 1
+see this 0.4111 0
+not_were 0.4111 1
+you want 0.4111 0
+blues 0.4111 1
+half 0.4107 0
+make a 0.4096 0
+introduced 0.4096 1
+after all 0.4096 0
+set 0.4087 1
+highly 0.4087 1
+matthew 0.4079 0
+classic 0.4063 1
+not_his 0.4046 1
+and his 0.4044 1
+kill 0.4034 0
+find out 0.4034 0
+born 0.4034 1
+information 0.4034 0
+bigger 0.4034 1
+com/m/reviews_by 0.4034 0
+i said 0.4034 0
+with all 0.4034 0
+com/m/reviews_by ? 0.4034 0
+not_in not_this 0.4034 0
+uses 0.4034 1
+released in 0.4034 0
+lucy 0.4034 0
+values 0.4034 1
+in such 0.4034 1
+not_yet 0.4034 1
+harry 0.4034 0
+13 0.4034 1
+not_such 0.4034 1
+a pretty 0.4034 1
+amy 0.4034 0
+shannon patrick 0.4034 0
+patrick sullivan 0.4034 0
+not_to not_say 0.4034 1
+not_part 0.4034 0
+character's 0.4034 1
+kate 0.4034 1
+literally 0.4034 0
+originally 0.4034 1
+president 0.4034 1
+a large 0.4034 0
+welcome 0.4034 1
+alien 0.4034 1
+names 0.4034 1
+not_lot 0.4034 1
+standard 0.4034 0
+carpenter's 0.4034 0
+up as 0.4034 0
+during 0.4023 1
+falls 0.4004 0
+attempts 0.3998 0
+not_of not_the 0.3995 1
+romantic 0.3994 1
+day 0.3994 1
+kid 0.3994 0
+stone 0.3989 0
+got 0.3987 0
+video 0.3982 0
+doubt 0.3982 1
+in that 0.3982 1
+company 0.3982 1
+pain 0.3973 1
+casting 0.3973 1
+let 0.3973 0
+not_with not_the 0.3973 1
+might have 0.3973 0
+i mean 0.3973 0
+batman 0.3973 0
+ben 0.3967 1
+former 0.3959 1
+be found 0.3959 0
+design 0.3959 1
+by john 0.3959 1
+not_long 0.3959 1
+sitting 0.3959 0
+offer 0.3959 1
+this review 0.3959 1
+presents 0.3959 1
+one of 0.3956 1
+case of 0.3939 0
+over and 0.3939 0
+escape 0.3939 1
+not_actually 0.3939 1
+off with 0.3939 1
+audiences 0.3939 1
+movie in 0.3939 1
+are so 0.3939 0
+page 0.3939 0
+than it 0.3939 1
+local 0.3929 1
+and more 0.3923 1
+guys 0.3923 0
+until 0.3910 1
+jonathan 0.3902 1
+second 0.3902 1
+scott 0.3902 0
+film was 0.3902 1
+present 0.3902 1
+hasn't 0.3902 1
+break 0.3902 1
+desperate 0.3902 0
+! ! 0.3902 0
+producer 0.3902 0
+sit 0.3902 0
+b 0.3902 0
+is a 0.3895 1
+not_see 0.3882 1
+anyway 0.3882 0
+what it 0.3870 1
+sequence 0.3870 1
+end up 0.3870 0
+i could 0.3870 0
+odd 0.3870 1
+gags 0.3870 0
+back in 0.3870 1
+asked 0.3870 0
+completely 0.3870 0
+confusing 0.3870 0
+in its 0.3862 1
+credit 0.3856 1
+down to 0.3856 0
+not_going 0.3856 0
+budget 0.3856 0
+trouble 0.3848 0
+stuff 0.3843 0
+nothing 0.3837 0
+small 0.3829 1
+will have 0.3819 0
+not_just 0.3819 1
+become a 0.3819 1
+answer 0.3819 0
+i really 0.3819 1
+this point 0.3819 0
+but there's 0.3819 0
+went 0.3819 0
+and so 0.3819 1
+not_being 0.3819 1
+hopes 0.3819 1
+thoroughly 0.3819 0
+because of 0.3819 1
+time and 0.3819 1
+humans 0.3819 0
+witness 0.3819 1
+tony 0.3819 1
+disturbing 0.3819 1
+i liked 0.3819 1
+not_no 0.3819 0
+heavily 0.3819 0
+opportunity 0.3819 0
+not_it's 0.3804 1
+should 0.3796 0
+and it's 0.3793 1
+partner 0.3778 0
+write 0.3778 0
+tries to 0.3774 0
+any of 0.3761 0
+forces 0.3761 1
+equally 0.3761 1
+not not_as 0.3761 1
+million 0.3761 1
+usually 0.3761 1
+doesn't have 0.3761 0
+much as 0.3761 1
+as you 0.3761 1
+united states 0.3761 1
+as they 0.3752 1
+run 0.3750 1
+sci-fi 0.3746 1
+low 0.3746 0
+not_it 0.3737 1
+form 0.3735 1
+his 0.3725 1
+is based 0.3720 0
+bad guys 0.3720 0
+summer 0.3720 0
+television 0.3720 0
+opens 0.3720 1
+keeping 0.3720 1
+theaters 0.3720 1
+united 0.3720 1
+side 0.3708 1
+not_and 0.3706 1
+piece of 0.3698 0
+familiar 0.3679 1
+comic 0.3679 1
+situation 0.3679 1
+aliens 0.3679 1
+save 0.3675 0
+bit 0.3673 1
+while 0.3668 1
+and if 0.3663 1
+not_on not_the 0.3663 1
+lines 0.3654 0
+career 0.3652 0
+guy 0.3644 0
+thinks 0.3642 0
+unfortunately 0.3642 0
+drama 0.3642 1
+talented 0.3642 0
+not_good 0.3642 0
+apartment 0.3642 1
+campbell 0.3642 1
+affleck 0.3642 1
+more 0.3638 1
+no 0.3631 0
+come 0.3629 1
+complete 0.3626 0
+a story 0.3626 1
+lacking 0.3626 0
+bloom 0.3626 0
+a child 0.3626 1
+critics 0.3626 1
+guard 0.3626 1
+not_right 0.3626 1
+realize that 0.3626 1
+they've 0.3626 1
+is good 0.3626 1
+his new 0.3626 0
+not_audience 0.3626 0
+is set 0.3626 1
+it ? 0.3626 0
+a second 0.3626 0
+does it 0.3626 0
+lisa 0.3626 1
+his career 0.3626 0
+wealthy 0.3626 1
+uk 0.3626 0
+sandra 0.3626 1
+in an 0.3618 1
+but he 0.3616 1
+see it 0.3616 1
+not_an 0.3614 1
+away from 0.3612 1
+central 0.3612 1
+is going 0.3612 1
+cut 0.3600 0
+potential 0.3600 0
+fall 0.3600 0
+a small 0.3600 1
+her own 0.3600 1
+not_at not_the 0.3600 1
+him and 0.3600 1
+avoid 0.3600 0
+side of 0.3600 1
+from this 0.3600 0
+-- a 0.3600 1
+movie with 0.3600 1
+in hollywood 0.3600 0
+wife 0.3596 1
+came 0.3589 1
+any 0.3587 0
+major 0.3586 1
+suspense 0.3580 0
+falling 0.3580 1
+warner 0.3580 0
+on an 0.3580 0
+attack 0.3580 0
+max 0.3573 0
+she 0.3566 1
+aside 0.3566 0
+anderson 0.3566 1
+club 0.3566 0
+men 0.3557 1
+there's 0.3555 0
+to save 0.3554 0
+barry 0.3554 0
+think 0.3546 0
+not_sure 0.3544 1
+takes 0.3544 1
+need to 0.3544 0
+seriously 0.3544 0
+other than 0.3544 0
+showing 0.3544 0
+we've 0.3544 0
+indeed 0.3536 1
+not_by 0.3524 1
+to give 0.3515 0
+dr 0.3511 1
+a new 0.3508 1
+man 0.3500 1
+women 0.3497 0
+not_in 0.3495 1
+i'm 0.3489 0
+pg-13 0.3451 1
+c 0.3451 0
+didn't 0.3451 0
+else 0.3451 0
+not_its 0.3451 1
+matter how 0.3451 1
+with such 0.3451 1
+angry 0.3451 0
+final 0.3451 1
+real 0.3451 1
+gives us 0.3451 1
+creating 0.3451 1
+journal 0.3451 0
+film that 0.3451 1
+whatever 0.3451 0
+nor 0.3451 0
+huge 0.3451 0
+not_us 0.3451 0
+she was 0.3451 1
+just about 0.3451 1
+comedic 0.3451 1
+eccentric 0.3451 1
+to use 0.3451 1
+features 0.3451 1
+performance is 0.3451 1
+emotion 0.3451 1
+jim 0.3451 1
+is as 0.3451 1
+gag 0.3451 0
+source 0.3451 1
+is pretty 0.3451 0
+novel by 0.3451 1
+' 0.3451 0
+movie to 0.3451 0
+explains 0.3451 1
+species 0.3451 0
+films 0.3426 1
+this movie 0.3424 0
+obvious 0.3409 0
+to take 0.3402 1
+dialogue 0.3400 0
+interest 0.3400 0
+read 0.3394 1
+& 0.3394 0
+hell 0.3376 0
+through 0.3373 1
+copyright 0.3370 0
+film has 0.3363 1
+killing 0.3355 0
+credits 0.3344 0
+intelligence 0.3344 0
+humour 0.3344 0
+he can 0.3338 1
+including 0.3336 1
+death 0.3331 1
+characters and 0.3331 1
+chance to 0.3331 1
+tries 0.3324 0
+and some 0.3324 1
+keep 0.3319 1
+or a 0.3315 0
+up for 0.3315 1
+not not_have 0.3315 1
+writing 0.3315 0
+that makes 0.3315 1
+we can 0.3315 1
+is really 0.3315 0
+hit 0.3308 0
+entire film 0.3293 1
+3 0.3293 0
+follow 0.3293 1
+but that's 0.3293 1
+where a 0.3293 0
+began 0.3293 1
+yeah 0.3293 0
+type of 0.3293 0
+return to 0.3293 1
+of humor 0.3293 1
+what a 0.3293 0
+soldier 0.3293 0
+it should 0.3293 0
+and is 0.3279 1
+female 0.3279 0
+not_you 0.3270 1
+usa 0.3263 0
+cliched 0.3263 0
+routine 0.3263 0
+identity 0.3263 1
+subject matter 0.3263 1
+to tell 0.3263 1
+critique 0.3263 0
+previously 0.3263 1
+because they 0.3263 1
+figures 0.3263 1
+people who 0.3263 1
+featured 0.3263 0
+action film 0.3263 0
+when a 0.3263 0
+phantom 0.3263 1
+films that 0.3263 1
+his first 0.3263 1
+is made 0.3263 0
+score 0.3250 1
+typical 0.3244 0
+4 0.3244 0
+as it 0.3239 1
+days 0.3239 1
+enough to 0.3232 1
+see a 0.3219 1
+but it's 0.3219 1
+appears to 0.3219 0
+green 0.3219 1
+making 0.3214 1
+him 0.3206 1
+and in 0.3205 1
+taking 0.3205 1
+not_time 0.3205 1
+society 0.3205 1
+did 0.3203 0
+he doesn't 0.3200 1
+older 0.3200 1
+himself 0.3196 1
+brother 0.3195 1
+year 0.3194 1
+not_something 0.3189 1
+calls 0.3189 0
+week 0.3189 1
+world of 0.3189 1
+average 0.3189 1
+military 0.3189 0
+physical 0.3189 1
+past 0.3180 1
+hits 0.3177 1
+bob 0.3166 0
+though 0.3153 1
+as 0.3151 1
+generation 0.3149 1
+little more 0.3149 1
+an hour 0.3149 0
+not_this not_film 0.3149 0
+as if 0.3149 0
+too many 0.3149 0
+not_story 0.3149 1
+come up 0.3149 0
+in it 0.3149 0
+fit 0.3149 1
+during a 0.3149 1
+weeks 0.3149 1
+people are 0.3149 0
+fully 0.3149 1
+andrew 0.3149 1
+author 0.3149 1
+in love 0.3133 1
+type 0.3124 0
+anything 0.3122 0
+themselves 0.3120 1
+you will 0.3115 1
+a huge 0.3115 0
+and its 0.3115 1
+basic 0.3115 1
+usual 0.3107 1
+not_was 0.3103 1
+murder 0.3103 1
+irene 0.3094 1
+man in 0.3094 1
+to break 0.3094 1
+be more 0.3094 0
+characterization 0.3094 1
+hey 0.3094 0
+screen time 0.3094 0
+produced by 0.3094 1
+wit 0.3094 1
+has been 0.3090 1
+control 0.3081 1
+rest of 0.3081 0
+not_what 0.3078 1
+your 0.3076 0
+de 0.3072 1
+fresh 0.3072 1
+you've got 0.3072 0
+acting is 0.3072 1
+horror 0.3072 1
+not_find 0.3072 1
+decided 0.3072 0
+recently 0.3059 0
+fire 0.3059 1
+and even 0.3059 1
+states 0.3059 1
+have a 0.3056 0
+asks 0.3051 1
+couldn't 0.3046 0
+to do 0.3036 0
+rick 0.3017 1
+i'm not 0.3017 0
+of people 0.3017 0
+it could 0.3017 1
+shame 0.3017 1
+number 0.3017 1
+effect 0.3017 1
+teacher 0.3017 1
+actions 0.3017 1
+contains 0.3017 0
+not_would 0.3017 1
+breaks 0.3017 1
+their own 0.3017 1
+are in 0.3017 1
+mental 0.3017 0
+formula 0.3017 0
+simply 0.3003 0
+then 0.2989 0
+i've 0.2985 1
+shots 0.2982 0
+filled 0.2982 1
+class 0.2982 1
+ones 0.2982 1
+you don't 0.2975 1
+party 0.2975 0
+wrong 0.2972 0
+we're 0.2970 1
+that can 0.2963 1
+possible 0.2963 1
+group of 0.2963 1
+adventure 0.2963 1
+include 0.2963 0
+gibson 0.2963 1
+not_are 0.2955 1
+does 0.2951 1
+not_any 0.2949 0
+like this 0.2942 0
+seeing 0.2942 1
+performers 0.2942 0
+he would 0.2942 1
+not_be not_a 0.2942 0
+slasher 0.2942 0
+what was 0.2942 0
+not_things 0.2942 1
+in front 0.2942 0
+sounds 0.2942 0
+rating 0.2942 1
+boat 0.2942 0
+without a 0.2942 1
+surface 0.2942 1
+witch 0.2942 0
+not_for 0.2940 1
+is one 0.2936 1
+matter 0.2929 1
+start 0.2929 0
+right 0.2925 1
+bit of 0.2925 1
+although 0.2925 1
+of being 0.2925 1
+reasons 0.2925 1
+not_here 0.2925 0
+not_in not_a 0.2925 1
+a long 0.2916 1
+ultimately 0.2916 1
+i had 0.2916 0
+decides 0.2916 1
+level 0.2909 0
+new 0.2903 1
+silly 0.2895 0
+and not 0.2895 1
+just as 0.2895 1
+soundtrack 0.2895 1
+i did 0.2895 0
+in some 0.2895 1
+that one 0.2895 1
+lack 0.2881 0
+events 0.2877 1
+following 0.2877 0
+might be 0.2872 0
+tv 0.2872 0
+he gets 0.2862 1
+characters in 0.2862 1
+it takes 0.2862 0
+fbi 0.2862 1
+road 0.2862 0
+mary 0.2853 1
+entire 0.2851 1
+he 0.2850 1
+called 0.2845 0
+someone 0.2845 0
+that there 0.2838 0
+minutes 0.2835 0
+group 0.2831 1
+will 0.2830 1
+way to 0.2825 1
+air 0.2819 0
+working 0.2814 1
+parents 0.2814 1
+and 0.2812 1
+play 0.2809 1
+chosen 0.2805 1
+international 0.2805 1
+flicks 0.2805 1
+also has 0.2805 1
+compared 0.2805 1
+test 0.2805 0
+front of 0.2805 0
+film are 0.2805 1
+performance in 0.2805 1
+walter 0.2805 1
+believe that 0.2805 1
+josh 0.2805 0
+apparent 0.2805 0
+mean 0.2797 0
+film is 0.2796 1
+absolutely 0.2793 0
+mouth 0.2783 0
+rush 0.2783 1
+that would 0.2783 0
+lover 0.2783 1
+even a 0.2783 0
+is this 0.2783 0
+as we 0.2783 1
+their 0.2775 1
+should be 0.2775 0
+villain 0.2756 0
+teen 0.2756 0
+male 0.2756 1
+front 0.2756 0
+development 0.2756 0
+home 0.2754 1
+a movie 0.2746 0
+fast 0.2741 0
+when i 0.2741 0
+mission 0.2730 0
+not_she 0.2730 1
+stop 0.2726 0
+soon 0.2723 1
+much of 0.2723 1
+plot 0.2707 0
+who has 0.2706 1
+use 0.2704 1
+done 0.2703 1
+its 0.2697 1
+over 0.2695 1
+take 0.2692 1
+from 0.2689 1
+- 0.2685 1
+move 0.2679 1
+crew 0.2679 0
+screenwriters 0.2679 0
+shallow 0.2679 0
+talents 0.2679 0
+short 0.2679 1
+or even 0.2679 0
+subplots 0.2679 0
+a result 0.2679 1
+surprises 0.2679 1
+necessary 0.2679 1
+not not_for 0.2679 1
+vehicle 0.2679 0
+help of 0.2679 1
+and that's 0.2679 1
+box office 0.2679 0
+you are 0.2679 1
+latter 0.2679 1
+not_then 0.2679 1
+woman who 0.2679 1
+that could 0.2679 0
+not_scenes 0.2679 1
+of movie 0.2679 1
+where they 0.2679 1
+capture 0.2679 1
+brain 0.2679 0
+fear 0.2679 1
+to 10 0.2679 0
+they do 0.2679 1
+do it 0.2679 1
+not_last 0.2679 1
+neeson 0.2679 1
+only 0.2675 0
+young 0.2667 1
+starring 0.2646 1
+is just 0.2640 0
+motion 0.2634 1
+characters are 0.2634 0
+apparently 0.2630 0
+member 0.2630 1
+city 0.2628 1
+e-mail 0.2626 0
+mystery 0.2626 0
+either 0.2626 0
+that a 0.2621 0
+i'll 0.2621 1
+danny 0.2621 1
+at all 0.2621 0
+and when 0.2621 1
+is 0.2620 1
+love with 0.2614 1
+mike 0.2614 1
+richard 0.2602 0
+jeff 0.2596 0
+you'll 0.2596 1
+to their 0.2596 1
+idea 0.2596 0
+be able 0.2596 1
+woody 0.2596 1
+allen 0.2596 1
+baby 0.2596 0
+waiting 0.2596 0
+genuine 0.2596 1
+not_much 0.2592 0
+left 0.2583 1
+roles 0.2583 1
+pretty 0.2583 0
+twists 0.2583 1
+hill 0.2583 1
+give 0.2577 0
+single 0.2575 0
+for her 0.2575 1
+effects are 0.2565 0
+hall 0.2565 1
+kong 0.2565 1
+via 0.2565 1
+menace 0.2565 1
+on screen 0.2565 0
+him a 0.2565 1
+more than 0.2561 1
+david 0.2556 1
+once 0.2549 1
+dealing 0.2538 1
+but they 0.2538 0
+ron 0.2538 1
+empty 0.2538 0
+filled with 0.2538 1
+biggest 0.2538 1
+version 0.2538 1
+i still 0.2538 0
+serial killer 0.2538 0
+by his 0.2538 1
+table 0.2538 1
+tale of 0.2538 1
+die 0.2538 0
+story by 0.2538 1
+multiple 0.2538 1
+theory 0.2538 0
+not_around 0.2538 1
+wondering 0.2538 0
+stick 0.2538 1
+some kind 0.2538 1
+silent 0.2538 0
+figure out 0.2538 0
+makes 0.2535 1
+feature 0.2529 1
+jones 0.2525 1
+agent 0.2525 1
+outside 0.2519 1
+so that 0.2519 1
+telling 0.2519 1
+personality 0.2519 0
+and to 0.2519 1
+building 0.2519 1
+reviews 0.2513 0
+her 0.2512 1
+hero 0.2511 0
+problem 0.2509 0
+evil 0.2503 1
+not_is 0.2501 1
+storyline 0.2494 1
+town 0.2494 1
+discover 0.2494 1
+i know 0.2494 0
+to look 0.2494 0
+it in 0.2494 1
+nudity 0.2494 1
+as a 0.2492 1
+money 0.2487 0
+not_one 0.2487 0
+first 0.2482 1
+series of 0.2478 0
+upon 0.2465 1
+not_not 0.2465 1
+by an 0.2460 1
+players 0.2460 1
+therefore 0.2460 1
+happens to 0.2460 0
+at this 0.2460 0
+only one 0.2460 0
+that he 0.2456 1
+would have 0.2455 0
+word 0.2451 1
+smith 0.2451 0
+lee 0.2449 0
+these 0.2445 1
+happened 0.2445 0
+scary 0.2445 1
+stands 0.2445 1
+yourself 0.2445 0
+plenty of 0.2445 1
+going to 0.2435 0
+; and 0.2410 0
+william 0.2410 1
+myself 0.2410 0
+social 0.2410 1
+s 0.2410 0
+that doesn't 0.2410 0
+not_to not_the 0.2410 1
+big screen 0.2410 1
+comes to 0.2410 1
+shown 0.2410 1
+enter 0.2410 1
+considering 0.2410 1
+but what 0.2410 1
+manage 0.2410 0
+jane 0.2410 0
+marriage 0.2410 1
+not_at 0.2400 1
+certainly 0.2397 1
+appears 0.2394 0
+with a 0.2393 1
+scene 0.2393 1
+up in 0.2388 0
+student 0.2376 0
+gay 0.2376 0
+about a 0.2370 0
+exactly 0.2370 0
+not not_that 0.2363 0
+forever 0.2363 1
+and what 0.2363 0
+not_least 0.2363 0
+is nothing 0.2363 1
+not_of 0.2357 1
+involved 0.2355 1
+a series 0.2351 0
+not_way 0.2351 1
+we get 0.2351 1
+playing 0.2348 1
+difficult 0.2346 1
+that's 0.2342 0
+most of 0.2332 1
+we don't 0.2332 0
+is on 0.2332 1
+do with 0.2332 0
+onto 0.2332 0
+watch 0.2327 1
+star 0.2323 1
+person 0.2323 1
+success 0.2317 1
+depth 0.2311 1
+don't know 0.2311 1
+capable 0.2295 0
+not_to not_do 0.2295 1
+high 0.2295 1
+somewhat 0.2295 1
+kind of 0.2295 1
+as i 0.2295 1
+hope 0.2295 1
+ratio 0.2295 0
+dan 0.2295 1
+fights 0.2295 1
+not_a not_film 0.2295 0
+to believe 0.2295 1
+appeared in 0.2295 0
+technical 0.2295 1
+and by 0.2295 1
+dangerous 0.2295 1
+from an 0.2295 0
+ever made 0.2295 1
+successful 0.2283 1
+same 0.2279 1
+to watch 0.2279 1
+now 0.2278 1
+than 0.2274 1
+after a 0.2273 1
+students 0.2273 0
+return 0.2273 1
+not_- 0.2273 1
+his role 0.2273 1
+manner 0.2273 1
+has a 0.2271 1
+earth 0.2265 0
+without 0.2265 1
+purpose 0.2259 0
+motion picture 0.2259 1
+theater 0.2259 1
+lead 0.2259 1
+moment 0.2259 1
+d 0.2259 1
+longer 0.2259 1
+like it 0.2259 0
+finale 0.2259 0
+you can 0.2255 1
+not_out 0.2253 1
+conclusion 0.2249 1
+state 0.2249 1
+each 0.2247 1
+just 0.2242 0
+laugh 0.2235 0
+when they 0.2235 0
+for example 0.2231 1
+not_this 0.2227 0
+an 0.2222 1
+in this 0.2218 0
+rest 0.2209 0
+and a 0.2204 1
+not_their 0.2190 1
+needed 0.2190 0
+speech 0.2190 1
+web 0.2190 0
+for their 0.2190 1
+much to 0.2190 1
+review by 0.2190 1
+instance 0.2190 1
+mind 0.2190 1
+of all 0.2190 0
+gang 0.2190 0
+10 0.2190 0
+trailer 0.2190 0
+blue 0.2190 1
+fame 0.2190 1
+not_bad 0.2190 0
+gets a 0.2190 1
+have no 0.2190 0
+try to 0.2190 1
+mainly 0.2190 1
+sexy 0.2190 0
+goofy 0.2190 0
+umbc 0.2190 0
+first time 0.2190 1
+cross 0.2190 1
+becomes 0.2174 1
+worth 0.2162 1
+two 0.2161 1
+sense 0.2159 1
+new york 0.2157 1
+talk 0.2154 0
+1999 0.2151 0
+along with 0.2147 1
+plan 0.2141 0
+scenes 0.2138 1
+them to 0.2134 1
+wrote 0.2134 0
+across 0.2130 1
+lady 0.2125 1
+appearance 0.2125 1
+a better 0.2125 0
+decides to 0.2125 1
+killed 0.2120 0
+this time 0.2120 1
+to create 0.2113 0
+subject 0.2113 1
+entertainment 0.2113 1
+lack of 0.2113 0
+rated r 0.2113 0
+stage 0.2113 1
+it will 0.2113 0
+camp 0.2095 1
+not_man 0.2095 1
+just like 0.2095 1
+hospital 0.2095 0
+happens 0.2095 0
+form of 0.2095 1
+geocities 0.2095 0
+feels 0.2086 1
+help 0.2086 0
+special 0.2084 1
+they were 0.2082 0
+drug 0.2082 0
+with 0.2077 1
+need 0.2074 0
+situations 0.2065 1
+hate 0.2065 0
+actress 0.2065 1
+a whole 0.2065 1
+film 0.2064 1
+that is 0.2056 1
+head 0.2050 1
+figure 0.2050 0
+dead 0.2050 0
+book 0.2045 1
+oh 0.2041 0
+not_as not_a 0.2041 1
+for him 0.2041 1
+which 0.2032 1
+almost 0.2031 1
+college 0.2031 0
+role 0.2028 1
+find 0.2027 1
+not_been 0.2026 0
+might 0.2019 0
+will be 0.2018 1
+mr 0.2018 1
+years 0.2007 1
+not_your 0.2007 1
+with some 0.2007 1
+rock 0.2007 1
+a couple 0.2007 0
+fare 0.2007 0
+it as 0.2007 0
+charlie 0.2007 0
+led by 0.2007 1
+quite a 0.2007 1
+feet 0.2007 0
+quickly 0.2007 1
+doctor 0.2007 0
+we learn 0.2007 0
+addition 0.2007 1
+woo 0.2007 0
+justin 0.2007 0
+christmas 0.2007 0
+html 0.1994 1
+is not 0.1989 1
+liked 0.1983 1
+not_the 0.1982 1
+way 0.1981 1
+runs 0.1979 1
+was a 0.1978 1
+not_from not_the 0.1974 1
+and are 0.1974 1
+seemingly 0.1974 1
+but there 0.1974 1
+movie is 0.1971 0
+of 0.1956 1
+introduces 0.1953 1
+it's an 0.1953 1
+and that 0.1953 1
+indiana 0.1953 0
+security 0.1953 0
+held 0.1953 1
+revenge 0.1953 0
+jacksonville 0.1953 0
+describe 0.1953 0
+he could 0.1953 0
+pacing 0.1953 1
+count 0.1953 1
+time in 0.1953 1
+happening 0.1953 1
+goal 0.1953 1
+it off 0.1953 0
+not_big 0.1953 1
+serve 0.1953 0
+not_the not_story 0.1953 1
+football 0.1953 1
+east 0.1953 1
+fan 0.1953 1
+over a 0.1953 0
+this case 0.1953 0
+thing 0.1947 0
+he was 0.1944 1
+she's 0.1942 0
+cinematography 0.1938 1
+to say 0.1938 1
+version of 0.1938 1
+billy 0.1938 1
+one 0.1931 1
+as to 0.1926 0
+not_after 0.1926 0
+to this 0.1926 1
+not_little 0.1926 0
+given 0.1926 1
+on her 0.1926 1
+is given 0.1926 1
+cameo 0.1926 0
+m 0.1926 1
+too 0.1921 0
+at http 0.1921 0
+has 0.1919 1
+which is 0.1916 1
+us 0.1911 1
+first film 0.1911 0
+not_before 0.1911 0
+role of 0.1911 0
+suddenly 0.1911 1
+gave 0.1911 0
+seven 0.1911 1
+point of 0.1911 1
+energy 0.1901 1
+heard 0.1894 1
+isn't 0.1893 0
+not_which 0.1881 0
+question 0.1881 0
+perhaps 0.1878 1
+never 0.1877 1
+up to 0.1873 1
+friend 0.1871 1
+said 0.1869 0
+better 0.1860 0
+one thing 0.1852 1
+prove 0.1852 1
+archive 0.1852 0
+dance 0.1852 0
+place in 0.1852 1
+continues 0.1852 1
+length 0.1852 0
+ended 0.1852 1
+know that 0.1852 0
+girlfriend 0.1852 0
+not_we 0.1852 1
+p 0.1852 1
+aspect ratio 0.1852 0
+character is 0.1852 1
+thing about 0.1852 1
+mention 0.1852 1
+imagine 0.1852 0
+bring 0.1852 0
+moves 0.1852 0
+his life 0.1852 1
+is even 0.1852 0
+gun 0.1852 0
+cause 0.1852 0
+even when 0.1852 1
+idea of 0.1852 0
+or two 0.1852 0
+involving 0.1852 1
+makes it 0.1852 1
+of some 0.1852 1
+directorial 0.1852 0
+an actor 0.1852 0
+a director 0.1852 0
+best friend 0.1852 0
+band 0.1852 1
+their way 0.1852 1
+movie 0.1851 0
+could 0.1847 0
+; 0.1840 1
+language 0.1830 1
+by 0.1825 1
+you know 0.1824 0
+surprise 0.1821 1
+not_they 0.1815 1
+not_about 0.1812 1
+of my 0.1806 1
+henry 0.1797 1
+i am 0.1797 0
+consider 0.1797 1
+plays a 0.1797 0
+a big 0.1797 0
+all in 0.1797 1
+discovers 0.1797 1
+haven't 0.1797 1
+not not_to 0.1797 1
+element 0.1797 1
+numerous 0.1783 1
+screening 0.1783 0
+with its 0.1783 1
+places 0.1783 1
+to put 0.1783 0
+respect 0.1783 1
+to that 0.1783 1
+our 0.1777 1
+kids 0.1774 1
+popular 0.1774 1
+don't 0.1770 0
+see 0.1769 1
+not_so 0.1762 1
+sexuality 0.1762 1
+enough 0.1762 1
+entirely 0.1762 1
+forward 0.1762 0
+french 0.1762 1
+becomes a 0.1762 0
+accidentally 0.1762 1
+with their 0.1762 1
+imagination 0.1762 0
+crowd 0.1762 0
+of him 0.1762 1
+try and 0.1762 1
+opens with 0.1762 1
+to stay 0.1762 1
+not_is not_the 0.1762 1
+running 0.1757 0
+kind 0.1754 1
+not_character 0.1745 1
+a while 0.1745 1
+that we 0.1745 1
+on his 0.1745 1
+e 0.1745 1
+in 0.1741 1
+another 0.1739 1
+secret 0.1737 1
+not_a 0.1733 1
+black 0.1732 1
+not_film 0.1729 1
+not_to not_be 0.1729 0
+so 0.1720 0
+lost 0.1720 0
+direction 0.1720 1
+happen 0.1720 0
+in a 0.1720 1
+needs 0.1720 0
+footage 0.1720 1
+kept 0.1720 1
+spend 0.1720 0
+rescue 0.1720 0
+not_with not_a 0.1720 0
+points 0.1720 0
+sure 0.1720 1
+which are 0.1720 0
+fight 0.1720 1
+not_off 0.1720 0
+'s 0.1720 1
+alone 0.1706 0
+and there 0.1702 1
+living 0.1702 1
+can't 0.1701 0
+beginning 0.1695 1
+editing 0.1695 1
+sent 0.1695 1
+on their 0.1695 0
+director 0.1693 0
+forced 0.1689 1
+having 0.1687 1
+have 0.1684 0
+his way 0.1679 0
+popcorn 0.1679 0
+about how 0.1679 0
+clooney 0.1679 1
+likely 0.1679 1
+that's not 0.1679 0
+much better 0.1679 0
+plane 0.1679 1
+boy 0.1673 1
+where 0.1672 1
+problems 0.1672 1
+york 0.1672 1
+comes 0.1669 1
+are not 0.1668 0
+name 0.1668 0
+already 0.1665 0
+from a 0.1664 1
+because 0.1662 1
+film to 0.1660 1
+to her 0.1660 1
+offers 0.1660 1
+cops 0.1660 0
+missing 0.1660 1
+like to 0.1660 0
+those 0.1657 1
+deep 0.1654 0
+a 0.1652 1
+occasionally 0.1649 1
+come to 0.1649 1
+out of 0.1639 1
+that it's 0.1636 0
+for a 0.1633 1
+recent 0.1632 1
+chance 0.1632 1
+away 0.1624 1
+picture 0.1614 1
+not not_really 0.1605 1
+as this 0.1605 0
+saying 0.1605 1
+found 0.1605 1
+opening 0.1605 1
+not_real 0.1605 0
+cash 0.1605 0
+that was 0.1605 0
+relationship with 0.1605 1
+note 0.1605 1
+up with 0.1605 1
+of which 0.1605 0
+for that 0.1605 1
+in and 0.1605 1
+goes to 0.1605 1
+out with 0.1605 0
+he wants 0.1605 1
+heroes 0.1605 0
+bruce willis 0.1605 1
+or so 0.1605 1
+place 0.1594 1
+end 0.1592 1
+not_with 0.1588 1
+like a 0.1582 0
+james 0.1581 1
+nice 0.1572 1
+fact that 0.1570 0
+not 0.1568 1
+going on 0.1563 1
+it a 0.1563 0
+otherwise 0.1563 1
+previous 0.1563 1
+character 0.1558 1
+joe 0.1553 0
+that i 0.1553 1
+shows 0.1546 1
+action 0.1543 0
+face 0.1543 0
+i 0.1539 0
+violence and 0.1536 1
+deals 0.1536 1
+not_take 0.1536 1
+douglas 0.1536 1
+phone 0.1536 1
+victim 0.1536 1
+white 0.1530 1
+result 0.1528 1
+ship 0.1528 1
+if you 0.1527 1
+it's not 0.1520 1
+it doesn't 0.1518 1
+slow 0.1504 1
+begin 0.1504 1
+apart 0.1504 1
+since 0.1501 1
+could have 0.1497 0
+is in 0.1496 1
+who 0.1494 1
+van 0.1494 0
+not_all 0.1491 1
+finally 0.1489 1
+but it 0.1486 1
+where he 0.1486 1
+that his 0.1486 1
+jamie 0.1486 0
+much 0.1483 1
+goes 0.1482 0
+screenplay 0.1473 0
+ready 0.1473 0
+opposite 0.1473 0
+not_think 0.1473 0
+added 0.1473 1
+trying to 0.1470 0
+not not_only 0.1467 1
+art 0.1465 1
+it's 0.1459 1
+check 0.1459 1
+out in 0.1459 0
+hold 0.1459 1
+good 0.1453 1
+when she 0.1450 1
+not_than 0.1450 0
+government 0.1450 1
+stay 0.1450 1
+bruce 0.1444 1
+even more 0.1444 1
+want to 0.1430 0
+questions 0.1416 1
+makes a 0.1416 1
+is too 0.1416 0
+send 0.1416 0
+tell 0.1416 1
+only a 0.1416 0
+dog 0.1416 0
+and you 0.1416 1
+ends 0.1416 1
+had been 0.1416 1
+eddie 0.1416 0
+because he 0.1416 1
+pop 0.1416 1
+not_have not_been 0.1416 0
+later 0.1403 1
+part of 0.1401 0
+seem to 0.1395 0
+in one 0.1388 1
+call 0.1388 1
+looking 0.1383 0
+not_for not_the 0.1383 1
+seems 0.1380 1
+stand 0.1375 0
+scene in 0.1375 1
+track 0.1375 0
+favorite 0.1375 1
+but in 0.1375 1
+next 0.1369 1
+something to 0.1362 0
+point 0.1362 0
+problem with 0.1362 0
+is about 0.1362 1
+of an 0.1362 1
+interested in 0.1362 0
+aspect 0.1362 1
+not_me 0.1362 0
+nights 0.1362 1
+managed to 0.1362 1
+jon 0.1362 0
+not_these 0.1362 1
+in all 0.1352 1
+annoying 0.1352 1
+probably 0.1341 1
+result is 0.1337 0
+charge 0.1337 0
+jimmy 0.1337 1
+way through 0.1337 1
+look at 0.1337 0
+in on 0.1337 0
+trailers 0.1337 1
+genius 0.1337 1
+not_another 0.1337 1
+mediocre 0.1337 0
+physics 0.1337 0
+hard to 0.1337 1
+keaton 0.1337 1
+fifteen 0.1337 1
+about her 0.1337 0
+shows up 0.1337 0
+mistake 0.1337 0
+not_give 0.1337 1
+sympathetic 0.1337 1
+hank 0.1337 0
+russian 0.1337 0
+each of 0.1337 1
+not_of not_this 0.1337 0
+sea 0.1337 1
+a black 0.1337 0
+i won't 0.1337 1
+people in 0.1337 0
+work in 0.1337 0
+//members 0.1337 1
+such a 0.1329 1
+known 0.1318 1
+like an 0.1312 0
+again 0.1312 1
+too much 0.1312 0
+visit 0.1312 0
+her to 0.1312 1
+door 0.1312 1
+big 0.1309 0
+appear 0.1301 1
+for this 0.1301 0
+wish 0.1301 0
+earlier 0.1294 1
+they have 0.1289 1
+some of 0.1275 1
+dying 0.1266 0
+film in 0.1266 0
+than a 0.1266 0
+wanted to 0.1266 0
+he meets 0.1266 1
+being 0.1266 1
+or at 0.1266 1
+is only 0.1266 1
+etc 0.1266 1
+saving 0.1266 0
+missed 0.1266 0
+but is 0.1266 1
+shouldn't 0.1266 0
+met 0.1266 1
+film as 0.1266 0
+at its 0.1266 1
+watched 0.1266 0
+jason 0.1266 0
+dies 0.1266 1
+ross 0.1266 1
+this was 0.1266 1
+is at 0.1266 1
+steal 0.1266 1
+particular 0.1266 1
+ask 0.1266 0
+it and 0.1266 0
+at home 0.1266 1
+it just 0.1266 0
+miller 0.1266 0
+finding 0.1266 1
+comparison 0.1266 0
+him in 0.1266 1
+talking 0.1266 0
+not_either 0.1266 1
+edited 0.1266 1
+intriguing 0.1266 0
+character in 0.1266 1
+8/10 0.1266 0
+time 0.1263 1
+acting 0.1252 1
+reviewed 0.1244 1
+serious 0.1244 0
+to have 0.1244 0
+main 0.1243 1
+review 0.1240 0
+street 0.1234 0
+through a 0.1234 1
+you've 0.1223 0
+but his 0.1223 1
+her character 0.1223 1
+returns 0.1223 1
+not_into 0.1215 0
+1998 0.1212 1
+production 0.1210 1
+can be 0.1208 0
+doesn't seem 0.1203 1
+script is 0.1203 0
+not_of not_a 0.1203 1
+of other 0.1203 0
+direct 0.1203 1
+offensive 0.1203 0
+dream 0.1203 1
+screenplay by 0.1203 1
+western 0.1203 0
+attempting 0.1203 0
+target 0.1203 0
+you think 0.1203 0
+you can't 0.1203 0
+main characters 0.1203 0
+when he 0.1197 1
+into 0.1194 1
+is no 0.1194 0
+to 0.1193 1
+anthony 0.1183 0
+admit 0.1183 1
+i saw 0.1183 0
+trip 0.1183 0
+back 0.1179 1
+everything 0.1178 1
+believe 0.1174 1
+we 0.1174 1
+for it 0.1174 1
+leaving 0.1174 1
+get a 0.1174 0
+of what 0.1174 1
+screen 0.1166 0
+won't 0.1161 0
+make 0.1160 0
+gets 0.1150 1
+concept 0.1146 0
+if he 0.1146 0
+and this 0.1146 0
+not_only 0.1146 1
+twenty 0.1146 0
+driving 0.1146 0
+2 0.1146 1
+award 0.1146 1
+never really 0.1146 1
+laughs 0.1146 0
+that in 0.1146 0
+her and 0.1146 1
+evidence 0.1146 1
+to follow 0.1146 1
+all that 0.1146 0
+shooting 0.1146 1
+not_without 0.1146 1
+kevin 0.1134 0
+trying 0.1129 0
+it 0.1128 1
+not_very 0.1128 0
+rather than 0.1128 1
+saw 0.1128 0
+piece 0.1128 1
+manages to 0.1128 1
+flick 0.1124 0
+//www 0.1123 1
+behind 0.1122 1
+plot is 0.1119 1
+stephen 0.1119 1
+not_how 0.1119 1
+plenty 0.1119 1
+girl 0.1114 0
+worked 0.1110 0
+fellow 0.1110 0
+far 0.1110 1
+one is 0.1110 0
+boys 0.1110 0
+detective 0.1110 0
+to see 0.1108 1
+old 0.1107 1
+third 0.1104 0
+want 0.1097 1
+opinion 0.1093 1
+not_will 0.1093 0
+accent 0.1093 1
+thin 0.1093 1
+mentioned 0.1093 0
+and now 0.1093 0
+naturally 0.1093 1
+kills 0.1093 1
+easy to 0.1093 1
+whole 0.1085 0
+there are 0.1081 1
+look 0.1079 0
+out 0.1072 1
+ever 0.1072 1
+not_to 0.1070 1
+message 0.1069 1
+when it 0.1069 1
+large 0.1064 1
+not_really 0.1061 1
+presence 0.1046 1
+hopkins 0.1046 1
+plus 0.1046 1
+it was 0.1046 1
+killer 0.1046 0
+died 0.1046 1
+presented 0.1046 1
+list 0.1046 0
+interested 0.1046 1
+there is 0.1046 0
+knew 0.1046 0
+theatrical 0.1046 1
+even though 0.1046 1
+a chance 0.1046 0
+but this 0.1046 0
+shock 0.1046 1
+brian 0.1046 1
+started 0.1046 0
+willis 0.1046 0
+turns out 0.1046 0
+assistant 0.1046 1
+photography 0.1046 0
+meant 0.1046 1
+he makes 0.1046 0
+bright 0.1046 1
+is like 0.1046 0
+narrative 0.1046 1
+order 0.1033 1
+every 0.1033 1
+steve 0.1031 0
+to make 0.1030 0
+among 0.1028 1
++ 0.1024 1
+can 0.1022 1
+yes 0.1016 0
+do 0.1016 0
+ends up 0.1016 0
+in my 0.1016 0
+a film 0.1008 1
+who's 0.1008 0
+each other 0.1008 1
+game 0.1008 1
+that it 0.1006 0
+couple 0.1002 0
+press 0.1002 0
+a brief 0.1002 0
+scenes in 0.1002 1
+he's a 0.1002 1
+i thought 0.1002 1
+weak 0.1002 0
+boyfriend 0.1002 0
+scenes of 0.1002 0
+cop 0.1002 0
+months 0.1002 1
+for instance 0.1002 1
+williamson 0.1002 1
+not_own 0.1002 1
+for 0.0999 1
+four 0.0989 1
+cute 0.0989 1
+is actually 0.0989 1
+people 0.0986 1
+hard 0.0986 0
+wants 0.0986 1
+giving 0.0982 1
+instead of 0.0975 0
+as an 0.0975 1
+running time 0.0975 0
+get 0.0970 0
+pg 0.0962 0
+trek 0.0962 0
+scenes are 0.0962 0
+dad 0.0962 1
+to an 0.0962 1
+not_since 0.0962 0
+it comes 0.0962 1
+machine 0.0962 1
+time to 0.0962 1
+meanwhile 0.0962 0
+carrey 0.0962 0
+funny 0.0952 0
+sequences 0.0949 0
+wonder 0.0947 1
+j 0.0943 1
+cinematic 0.0937 0
+actual 0.0937 1
+that has 0.0937 1
+not_when 0.0937 0
+not_more 0.0937 1
+public 0.0937 1
+what 0.0934 1
+room 0.0932 1
+everyone 0.0929 0
+if 0.0928 0
+patrick 0.0925 1
+travel 0.0925 0
+not_him 0.0925 1
+not_some 0.0925 1
+comments 0.0925 0
+pair 0.0925 0
+back to 0.0918 0
+of a 0.0917 1
+other 0.0916 1
+or 0.0916 0
+jr 0.0913 0
+impossible 0.0913 1
+hands 0.0913 1
+itself 0.0908 0
+robin 0.0908 0
+interesting 0.0906 1
+but 0.0905 1
+violence 0.0904 1
+seems to 0.0904 1
+manages 0.0904 1
+it seems 0.0891 0
+premise 0.0891 0
+and we 0.0891 0
+has no 0.0891 0
+there was 0.0891 0
+r 0.0884 0
+that this 0.0878 0
+act 0.0878 1
+on a 0.0874 0
+music 0.0871 1
+early 0.0869 0
+has to 0.0865 0
+were 0.0865 0
+they are 0.0862 1
+to a 0.0861 1
+if it 0.0859 1
+fashion 0.0859 0
+movie reviews 0.0859 1
+not_at not_all 0.0859 0
+kelly 0.0859 1
+takes place 0.0859 1
+station 0.0859 1
+characters 0.0857 1
+a lot 0.0857 1
+of that 0.0849 0
+i can't 0.0849 0
+long 0.0833 1
+computer 0.0829 1
+wanted 0.0829 0
+i have 0.0829 1
+was 0.0829 1
+decide 0.0829 1
+am 0.0829 0
+and they 0.0829 0
+filmed 0.0829 1
+not_know 0.0829 1
+off as 0.0829 0
+style 0.0820 1
+must 0.0819 0
+are 0.0814 1
+clear 0.0811 1
+written 0.0808 0
+not_up 0.0802 0
+incredibly 0.0802 0
+two of 0.0802 1
+involved in 0.0802 1
+create 0.0793 0
+various 0.0793 0
+god 0.0793 1
+movies 0.0792 0
+just a 0.0789 1
+business 0.0776 1
+made 0.0776 1
+members 0.0776 1
+jackson 0.0776 1
+l 0.0776 1
+not_people 0.0776 0
+debut 0.0776 1
+a few 0.0772 1
+wants to 0.0766 0
+end of 0.0764 0
+-- 0.0760 0
+steven 0.0759 0
+a scene 0.0759 0
+of this 0.0758 1
+comedy 0.0758 0
+hollywood 0.0757 1
+be a 0.0754 0
+alive 0.0752 1
+not_one not_of 0.0752 1
+and all 0.0752 1
+not_-- 0.0752 1
+not_in not_the 0.0748 1
+out to 0.0747 0
+i was 0.0740 1
+is to 0.0729 1
+released 0.0729 1
+don 0.0729 0
+about to 0.0729 1
+hardly 0.0729 0
+not_if 0.0729 0
+actually 0.0726 0
+cast 0.0724 0
+who is 0.0724 1
+few 0.0723 1
+like 0.0721 0
+written by 0.0721 0
+child 0.0718 1
+his character 0.0714 1
+we are 0.0707 1
+russell 0.0707 0
+quick 0.0707 0
+not_there 0.0707 0
+charm 0.0707 1
+based on 0.0699 0
+case 0.0699 1
+played 0.0699 1
+used 0.0695 1
+to me 0.0687 1
+sound 0.0687 0
+i can 0.0687 0
+ideas 0.0687 1
+by a 0.0682 1
+doing 0.0679 1
+office 0.0674 0
+in fact 0.0674 0
+starts 0.0664 1
+actor 0.0660 0
+something 0.0659 1
+all of 0.0655 0
+followed 0.0650 0
+couple of 0.0650 0
+at a 0.0650 1
+being a 0.0650 1
+not not_sure 0.0650 1
+sick 0.0650 1
+no real 0.0650 0
+his girlfriend 0.0650 0
+to try 0.0650 0
+find a 0.0650 0
+to turn 0.0650 0
+johnson 0.0650 0
+you do 0.0650 0
+shoot 0.0650 1
+her mother 0.0650 0
+on in 0.0650 1
+what happened 0.0650 1
+armageddon 0.0650 1
+safe 0.0650 0
+creative 0.0650 0
+record 0.0650 0
+meant to 0.0650 1
+this is 0.0648 1
+fact 0.0647 0
+going 0.0644 0
+effects 0.0642 0
+film's 0.0642 1
+along 0.0637 1
+top 0.0633 0
+island 0.0633 1
+taken 0.0627 0
+not_characters 0.0617 0
+i don't 0.0617 1
+is simply 0.0617 1
+film from 0.0617 1
+adams 0.0617 0
+making a 0.0617 0
+rise 0.0617 1
+are no 0.0617 0
+a major 0.0617 1
+production design 0.0617 0
+r for 0.0617 0
+wood 0.0617 0
+check out 0.0617 1
+out and 0.0617 1
+on its 0.0617 1
+reeves 0.0617 0
+sutherland 0.0617 0
+don't get 0.0617 1
+dave 0.0617 1
+around 0.0612 1
+rated 0.0611 0
+son 0.0609 0
+turn 0.0604 0
+for an 0.0601 1
+effort 0.0601 1
+simon 0.0601 1
+latest 0.0596 1
+somehow 0.0596 1
+of them 0.0591 0
+not_have 0.0591 0
+5 0.0587 1
+beat 0.0587 1
+not_by not_the 0.0587 0
+exist 0.0587 1
+on earth 0.0587 0
+box 0.0587 0
+utterly 0.0587 0
+men in 0.0587 1
+who will 0.0587 1
+but at 0.0587 1
+an american 0.0587 0
+of how 0.0587 0
+paltrow 0.0587 0
+down 0.0579 0
+would 0.0573 0
+hand 0.0573 1
+are a 0.0568 1
+star trek 0.0559 0
+speaking 0.0559 1
+creepy 0.0559 0
+a review 0.0559 0
+amusing 0.0559 1
+his performance 0.0559 1
+likable 0.0559 0
+decade 0.0559 1
+it makes 0.0559 1
+and just 0.0559 1
+crystal 0.0559 0
+expecting 0.0559 1
+not_better 0.0559 0
+talks 0.0559 1
+it turns 0.0559 1
+has made 0.0559 1
+have to 0.0549 0
+high school 0.0547 0
+you 0.0545 1
+police 0.0542 1
+there 0.0538 0
+some 0.0535 0
+when you 0.0534 1
+turning 0.0534 1
+happy 0.0534 1
+written and 0.0534 0
+you get 0.0534 1
+failed 0.0534 0
+less than 0.0534 0
+lawrence 0.0534 1
+last 0.0532 1
+here 0.0527 0
+when 0.0525 1
+little 0.0523 1
+not_or 0.0523 1
+example 0.0523 1
+things 0.0520 0
+internet 0.0512 1
+is being 0.0512 1
+he and 0.0512 1
+not_get 0.0512 1
+all over 0.0512 0
+professor 0.0512 0
+house 0.0507 1
+woman 0.0504 1
+actors 0.0504 0
+aren't 0.0504 1
+straight 0.0501 0
+there's a 0.0498 0
+hours 0.0498 1
+me 0.0491 0
+peter 0.0491 0
+adult 0.0491 0
+daniel 0.0491 1
+you have 0.0491 1
+of two 0.0491 1
+donald 0.0491 1
+food 0.0491 0
+joan 0.0491 0
+that 0.0487 1
+this 0.0487 0
+mostly 0.0484 1
+george 0.0484 0
+been 0.0483 0
+would be 0.0483 0
+jerry 0.0481 1
+show 0.0480 1
+says 0.0478 0
+about 0.0474 0
+they 0.0472 0
+in any 0.0472 1
+more like 0.0472 0
+on this 0.0472 0
+tried 0.0472 0
+moore 0.0472 1
+up on 0.0472 0
+not_that not_the 0.0472 1
+weird 0.0472 0
+williams 0.0472 0
+will not 0.0472 0
+teenagers 0.0472 0
+turned 0.0472 1
+anne 0.0472 1
+easy 0.0472 1
+example of 0.0472 0
+less 0.0468 1
+audience 0.0467 1
+beyond 0.0462 0
+that they 0.0459 1
+to go 0.0459 0
+heavy 0.0454 0
+be an 0.0454 1
+not_that 0.0450 1
+three 0.0449 1
+not_because 0.0448 1
+directed 0.0437 1
+century 0.0437 1
+with this 0.0437 1
+we know 0.0437 1
+includes 0.0437 0
+not_my 0.0437 1
+that he's 0.0437 0
+school 0.0433 1
+named 0.0433 1
+not_who 0.0427 0
+dean 0.0422 1
+managed 0.0422 1
+and with 0.0422 0
+forget 0.0422 0
+my 0.0413 0
+of course 0.0412 0
+directed by 0.0410 1
+daughter 0.0408 0
+pass 0.0408 1
+critic 0.0408 0
+full 0.0408 0
+it would 0.0408 1
+ago 0.0408 1
+instead 0.0399 0
+shot 0.0394 0
+pay 0.0394 1
+are some 0.0394 0
+spends 0.0394 0
+about his 0.0394 1
+officer 0.0394 0
+as in 0.0394 0
+if you're 0.0394 0
+off 0.0385 0
+special effects 0.0382 1
+in order 0.0382 1
+mark 0.0382 0
+within 0.0382 1
+used to 0.0382 1
+what i 0.0382 0
+not_from 0.0378 1
+thriller 0.0376 0
+with his 0.0370 0
+but when 0.0370 1
+played by 0.0370 1
+not not_the 0.0370 1
+about it 0.0370 0
+say 0.0359 1
+not_is not_a 0.0359 1
+up and 0.0359 0
+not not_a 0.0352 0
+if they 0.0348 0
+attempts to 0.0348 1
+and has 0.0348 1
+becoming 0.0348 1
+late 0.0344 1
+or not 0.0339 1
+a good 0.0339 1
+of time 0.0339 0
+years ago 0.0339 1
+go to 0.0339 0
+screenwriter 0.0339 0
+plays 0.0336 0
+them 0.0329 0
+tension 0.0329 1
+for all 0.0329 1
+sort 0.0329 1
+up a 0.0329 0
+make it 0.0321 1
+before 0.0319 1
+get to 0.0312 0
+climax 0.0312 0
+http 0.0307 0
+immediately 0.0304 0
+who was 0.0304 0
+turns 0.0304 0
+hour 0.0297 1
+know 0.0297 0
+to find 0.0293 1
+say that 0.0290 1
+six 0.0290 0
+such 0.0288 0
+how to 0.0283 0
+better than 0.0283 1
+to be 0.0272 0
+took 0.0264 0
+leaves 0.0264 0
+all 0.0263 0
+into a 0.0262 1
+part 0.0261 1
+work 0.0256 0
+had a 0.0253 1
+red 0.0253 1
+it all 0.0248 1
+series 0.0246 0
+lot 0.0244 1
+under 0.0238 0
+and i 0.0236 0
+he's 0.0233 0
+getting 0.0229 1
+really 0.0224 1
+be 0.0222 0
+but not 0.0221 0
+movie that 0.0217 1
+rather 0.0212 0
+parts 0.0209 0
+not_movie 0.0206 0
+up 0.0202 0
+not_do 0.0202 1
+it to 0.0202 0
+in her 0.0202 1
+at 0.0199 0
+so much 0.0195 1
+sort of 0.0189 0
+watching 0.0184 0
+of these 0.0184 0
+course 0.0181 0
+of those 0.0181 0
+after 0.0175 1
+stars 0.0173 0
+writer 0.0173 1
+this film 0.0172 0
+on 0.0166 1
+of its 0.0159 0
+even 0.0146 0
+go 0.0145 0
+camera 0.0142 1
+to get 0.0141 0
+but i 0.0136 1
+try 0.0134 0
+is that 0.0128 0
+had 0.0124 1
+not_i 0.0118 0
+they're 0.0109 0
+humor 0.0109 0
+lot of 0.0094 1
+not_on 0.0092 0
+he has 0.0087 0
+based 0.0083 1
+doesn't 0.0069 0
+original 0.0068 1
+michael 0.0067 0
+how 0.0030 1
+enjoy 0.0000 1
+order to 0.0000 1
+brief 0.0000 1
+plans 0.0000 1
+join 0.0000 1
+not_be 0.0000 1
+task 0.0000 1
+such as 0.0000 1
+other hand 0.0000 1
+and no 0.0000 1
+baldwin 0.0000 1
+had to 0.0000 1
+to its 0.0000 1
+body 0.0000 1
+brothers 0.0000 1
+tired 0.0000 1
+net 0.0000 1
+out a 0.0000 1
+line 0.0000 1
+quality 0.0000 1
+title 0.0000 1
+yet another 0.0000 1
+not_could 0.0000 1
+created 0.0000 1
+sad 0.0000 1
+2000 0.0000 1
+aol 0.0000 1
+coming 0.0000 1
+i found 0.0000 1
+paris 0.0000 1
+recommend 0.0000 1
+once again 0.0000 1
+i would 0.0000 1
+film and 0.0000 1
+not_seem 0.0000 1
+leading 0.0000 1
+likes 0.0000 1
+content 0.0000 1
+laughing 0.0000 1
+some good 0.0000 1
+encounter 0.0000 1
+legend 0.0000 1
+made a 0.0000 1
+so many 0.0000 1
+survive 0.0000 1
+sullivan 0.0000 1
+plot and 0.0000 1
+only to 0.0000 1
+an old 0.0000 1
+are all 0.0000 1
+beach 0.0000 1
+they don't 0.0000 1
+can do 0.0000 1
+you might 0.0000 1
+dialogue is 0.0000 1
+not_go 0.0000 1
+with it 0.0000 1
+to help 0.0000 1
+by her 0.0000 1
+and director 0.0000 1
+cliches 0.0000 1
+its own 0.0000 1
+was in 0.0000 1
+build 0.0000 1
+and an 0.0000 1
+not_make 0.0000 1
+in addition 0.0000 1
+movie has 0.0000 1
+movie was 0.0000 1
+stars as 0.0000 1
+i just 0.0000 1
+a rather 0.0000 1
+known as 0.0000 1
+could be 0.0000 1
+decided to 0.0000 1
+regular 0.0000 1
+these two 0.0000 1
+for one 0.0000 1
+blair 0.0000 1
+roberts 0.0000 1
+not not_so 0.0000 1
+further 0.0000 1
+o 0.0000 1
+decision 0.0000 1
+alan 0.0000 1
+granted 0.0000 1
+not_he's 0.0000 1
+his brother 0.0000 1
